@@ -50,8 +50,7 @@ mtcnn==1.0.0
 namex==0.0.8
 narwhals==1.19.1
 numpy==1.26.4
-opencv-contrib-python==4.10.0.84
-opencv-python==4.10.0.84
+opencv-python-headless==4.10.0.84
 opt_einsum==3.4.0
 optree==0.13.1
 packaging==24.2
