@@ -30,6 +30,7 @@ Steps to Run Locally:
 
 Usage:
 - Upload an image or start the webcam for real-time analysis.
+- allow deepface to download the models in the background,it may take some minutes.
 - View analysis results such as gender, age, emotion, and race.
 - Download the processed image for further use.
 
